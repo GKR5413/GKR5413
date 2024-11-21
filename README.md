@@ -21,5 +21,8 @@ Aspiring software engineer and problem solver with experience in full-stack deve
 ## 📫 Let's Connect!  
 - **Email**: [gottumukkala.kanakaraju@gmail.com](mailto:gottumukkala.kanakaraju@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/gkr5413](https://www.linkedin.com/in/gkr5413)  
-- **GitHub**: [github.com/gkr5413](https://github.com/gkr5413)  
+- **GitHub**: [github.com/gkr5413](https://github.com/gkr5413)
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="gkr5413" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/gkr5413?trk=profile-badge">Raju Gottumukkala</a></div>
+              
 
